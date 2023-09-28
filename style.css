@@ -1,0 +1,16 @@
+/* blue: #172122
+red: #6e081f
+lightred: #732b2e
+sand: #936f62
+beige: #e4ccc0
+lightblue: #c5d5d6 */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
